@@ -4,7 +4,9 @@
 
 ---
 
-Note that as I'm still in school, more information about each unit will be written over time. So when a unit or subject is considered finished, I've finished adding all the information there is available. Updates can still be added later on.
+Note that as I'm still in school, more information about each unit will be written over time. So
+when a unit or subject is considered finished, I've finished adding all the information there is
+available. Updates can still be added later on.
 
 + [x] [English Language Arts 7](grade-7/english.md)
 + [x] [Math 7](grade-7/math.md)
@@ -19,4 +21,5 @@ Note that as I'm still in school, more information about each unit will be writt
 + [x] [Science 9](grade-9/science.md)
 + [x] [Social Studies 9](grade-9/social.md)
 
-If you want to contribute, please, please, please, please, please be as consistent as possible with all the surrounding text (as if anyone is going to contribute anyway).
+If you want to contribute, please, please, please, please, please be as consistent as possible with
+all the surrounding text (as if anyone is going to contribute anyway).
